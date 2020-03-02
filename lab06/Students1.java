@@ -64,7 +64,7 @@ public class Students1 {
 					s[t] = new Student(name, id, g1, g2, g3, g4);
 				t++;}
 			}
-		}catch (FileNotFoundException e) {
+		} catch (FileNotFoundException e) {
 			System.out.println("File does not exist or cannot be read!");
 		}
 	}
