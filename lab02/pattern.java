@@ -1,3 +1,6 @@
+/* Write a method to display a pattern as
+follows: */
+
 package lab2_assignment;
 
 import java.util.Scanner;
