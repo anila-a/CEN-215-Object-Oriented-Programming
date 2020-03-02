@@ -1,3 +1,15 @@
+/* Write a class that contains the following two methods:
+
+public static double celsiusToFahrenheit(double celsius)
+public static double fahrenheitToCelsius(double fahrenheit)
+
+The formula for the conversion is:
+fahrenheit = (9.0 / 5) * celsius + 32
+celsius = (5.0 / 9) * (fahrenheit – 32)
+
+Write a test program that invokes these methods to display
+a table. */
+
 package lab2_assignment;
 
 public class ex4 {
