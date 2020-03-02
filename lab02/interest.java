@@ -9,7 +9,7 @@ and displays the interest for the next month. */
 package lab2_assignment;
 import java.util.Scanner;
 
-public class ex14 {
+public class interest {
 
 	public static void main(String[] args) {
 		System.out.println("Enter balance: ");
