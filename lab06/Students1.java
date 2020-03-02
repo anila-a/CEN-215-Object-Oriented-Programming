@@ -1,7 +1,6 @@
 /* Write a program that reads the student file. After reading it, you should 
 show the information of student as follows: */
 
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
