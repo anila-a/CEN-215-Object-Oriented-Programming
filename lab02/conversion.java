@@ -12,7 +12,7 @@ a table. */
 
 package lab2_assignment;
 
-public class ex4 {
+public class conversion {
 
 	public static void main(String[] args) {
 		double celcius = 10.0;
