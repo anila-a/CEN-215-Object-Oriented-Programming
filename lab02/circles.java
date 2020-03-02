@@ -6,7 +6,7 @@ package lab2_assignment;
 import java.util.Scanner;
 import java.math.*;
 
-public class ex16 {
+public class circles {
 
 	public static void main(String[] args) {
 		System.out.println("Enter the radii of circle 1: ");
