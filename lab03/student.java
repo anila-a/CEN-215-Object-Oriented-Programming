@@ -1,3 +1,13 @@
+/* Create Student class and Student objects for the following data:
+
+1-Create a method which returns average of the student.
+public int getAverage()
+2-Create a method that prints Student information
+public void printStudent()
+Output: Name Grade1 Grade2 Grade3 Grade4 Grade5 Average
+3-Create a method outside the class which sorts all the student objects according to the average
+public static void sort(Student[] students) */
+
 package lab3_assignments;
 	
 public class student {
