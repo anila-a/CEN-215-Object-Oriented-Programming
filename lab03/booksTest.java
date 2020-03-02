@@ -1,3 +1,17 @@
+/* Create Book class with the following fields:
+ISBN, Name, Author, Publisher, Price
+Write the respective constructors, getters and setters for the class.
+Create another class with the main method; create an array of Book objects.
+Write methods that:
+Sort and print
+a. by ISBN
+b. by Name
+c. by Author
+d. by Publisher
+e. by Price
+Search a book according to their fields (ISBN, Name, Author,
+Publisher). */
+
 package lab3_assignments;
 
 public class booksTest {
