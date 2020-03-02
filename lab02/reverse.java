@@ -5,7 +5,7 @@ order in which they were read. */
 package lab2_assignment;
 import java.util.Scanner;
 
-public class ex5 {
+public class reverse {
 
 	public static void main(String[] args) {
 		int[] num = new int[10];
