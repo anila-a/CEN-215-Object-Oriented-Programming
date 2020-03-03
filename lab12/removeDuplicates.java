@@ -1,3 +1,6 @@
+/* Write the following method that returns a new ArrayList. The new list contains 
+the nonduplicate elements from the original list. */
+
 package lab12;
 
 import java.util.ArrayList;
