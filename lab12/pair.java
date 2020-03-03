@@ -1,3 +1,7 @@
+/* Create a Pair Class that takes two objects, one known as a key and the other the
+corresponding object value. Create also the getKey(), setKey(), getValue(), and
+setValue(). */
+
 package lab12;
 
 public class pair<K,V> {
