@@ -1,3 +1,5 @@
+/* Implement the following generic method for linear search. */
+
 package lab12;
 
 public class linearSearch {
