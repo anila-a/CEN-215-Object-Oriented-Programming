@@ -1,3 +1,6 @@
+/* Make a class called TwoItems that stores two entries of a given type and has getter
+methods to retrieve them. Give it a useful toString method. */
+
 package lab12;
 
 public class testTwoItems {
