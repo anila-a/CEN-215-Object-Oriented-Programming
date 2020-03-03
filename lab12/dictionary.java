@@ -1,3 +1,7 @@
+/* Sketch the class definition and method signatures for a Dictionary class, which allows
+one to store or look up a value object indexed by a key object. Give the method
+signatures for get, put, isEmpty, keys, and values. */
+
 package lab12;
 
 public class dictionary<A,B> {
