@@ -1,3 +1,5 @@
+/* Write a generic method to find the maximal element in the range [begin, end) of a list. */
+
 package lab12;
 
 import java.util.ArrayList;
