@@ -1,3 +1,6 @@
+/* Sketch the class definition and method signatures for a LIFO class, parameterized by the
+type of element on the ‘stack’. Give the method signatures for push, pop, and isEmpty. */
+
 package lab12;
 
 import java.util.ArrayList;
