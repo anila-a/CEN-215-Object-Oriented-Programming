@@ -1,3 +1,6 @@
+/* Create a static method PerimeterEqual(obj1,obj2) that checks if the perimeter of two
+Shape objects are the same. */
+
 package lab12;
 
 public class testPerimeter {
