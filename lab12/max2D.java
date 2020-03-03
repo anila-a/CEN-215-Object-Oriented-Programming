@@ -1,3 +1,5 @@
+/* Write a generic method that returns the maximum element in a two-dimensional array. */
+
 package lab12;
 
 public class max2D {
